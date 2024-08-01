@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Funtion that returns the string representation of the float."""
+"""Module that contains function that returns a string"""
 
 
 def to_str(n: float) -> str:
+    """Function to stringify a float"""
 
     return str(n)
